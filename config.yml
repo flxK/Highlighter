@@ -1,0 +1,10 @@
+#Highlighter Config
+
+#Code of the Color you want to use
+Color: "e"
+
+#Minimal length of message parts to highlight
+min_length: 4
+
+#Words to ignore. Seperate them by a single space!
+Blacklist: "example example"

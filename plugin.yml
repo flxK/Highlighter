@@ -1,0 +1,9 @@
+name: Highlighter
+main: net.felixkraus.highlighter.Highlighter
+version: 1.0
+author: xilefkfelix
+commands:
+  Highlighter:
+    usage: /highlighter
+    description: Autor + Version
+    aliases: mc-rp-highlighter
